@@ -1,4 +1,4 @@
 # izootodemo
 My First Repository
 <br>
-Author - Neha Singh
+Author - Neha Singh (iZooto)
